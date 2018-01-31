@@ -1,4 +1,4 @@
 distributed
 GPL
 »º´æÇø
-git tracts changes
+git tracts changes of files
